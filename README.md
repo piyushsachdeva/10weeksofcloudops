@@ -6,9 +6,9 @@
 - To gain hands-on experience in building real-time use cases.
 - To develop the ability to justify your hands-on experience on your resume.
 - Showcase your skills through GitHub, blogs, and social media.🚀
-- 
+  
 ### Join our Discord community: [Click Here](https://discord.com/invite/TNCs4BRzq8)
-## Follow us on Social Media: [Click Here](https://linktree.com/thecloudopscomm)
+### Follow us on Social Media: [Click Here](https://linktree.com/thecloudopscomm)
 
 ## Frequently asked questions 👇
 
