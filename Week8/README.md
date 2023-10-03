@@ -52,7 +52,7 @@ I built an API using AWS Lambda, that accepts POST requests with URL field in th
 
 [![QR Code Generator](https://img.youtube.com/vi/j8QZwM3LFDM/sddefault.jpg)](https://youtu.be/j8QZwM3LFDM?si=Ue46RnlmYzaJsGMY)
 
-#### Live App
+#### [Live App](https://url2qr.rishab.cloud)
 
 ### Peaky Blinders API
 
@@ -63,6 +63,8 @@ An API for my favorite TV Show, the Peaky Blinders. This was built as FastAPI in
 - Episodes
 
 [![Peaky Blinders API](https://img.youtube.com/vi/LVuxmQfqivA/sddefault.jpg)](https://youtu.be/LVuxmQfqivA?si=qaGv51-10CF8X8cN)
+
+#### [Live App](https://peaky-blinders.calmsand-ff14fe59.eastus.azurecontainerapps.io/)
 
 ## Conclusion
 
