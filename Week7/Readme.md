@@ -1,4 +1,4 @@
-# 10WeeksOfCloudOps_Week7
+# Kubernetes Administration in Depth
 ## Below are the task details:
 
 Your organization is evolving, and your CTO wants to streamline the build and deployment process. As a DevOps engineer, you have been tasked to deploy a local docker images registry on Kubernetes to store the docker images in the namespace called “democloudops”  and should meet the following requirements:
