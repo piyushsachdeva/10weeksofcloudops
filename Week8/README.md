@@ -1,13 +1,19 @@
 # Week 8 - Serverless Challenge
 
-In this challenge, you will use AWS Lambda to build a serverless API. AWS Lambda is a compute service that lets you run code without provisioning or managing servers. You can use Lambda to build many different types of applications, including APIs, web applications, and mobile backends.
+In this challenge, you will use Serverless Functions to build a serverless API. Serverless Functions are offered by all major cloud providers, it is a compute service that lets you run code without provisioning or managing servers. You can use these to build many different types of applications, including APIs, web applications, and mobile backends.
+
+Following are the services:
+
+- [AWS Lambda](https://aws.amazon.com/lambda/)
+- [Azure Functions](https://azure.microsoft.com/en-in/products/functions#:~:text=Azure%20Functions%20is%20an%20event,highest%20level%20of%20hardware%20abstraction.)
+- [GCP Cloud Functions](https://cloud.google.com/functions)
 
 ## Requirements
 
-- An AWS account
-- Knowledge of Python or another programming language supported by AWS Lambda
-- IaC Tool like Terraform, Pulumi or CloudFormation
-- CICD: GitHub Actions
+- A cloud provider account (AWS, Azure or GCP)
+- Knowledge of Python or another programming language supported by these services.
+- IaC Tool like Terraform or Pulumi
+- CICD: Continuous Integrations and Continuous Deployment
 
 ## Challenge Ideas
 
@@ -20,15 +26,15 @@ Here are some examples of serverless APIs that you can build with AWS Lambda:
 
 ## Steps
 
-1. Create an AWS Lambda function. You can do this using the AWS Lambda console or the AWS CLI.
+1. Create a Serverless function. You can do this using the either the cloud management console or the cloud provider CLI.
 2. Write the code for your function. Your function should handle incoming HTTP requests and return a response.
-3. Deploy your function to AWS Lambda.
-4. Create an API Gateway resource and configure it to trigger your Lambda function.
+3. Deploy your function to the cloud.
+4. Create an API Gateway resource or HTTP trigger and configure it to trigger your Serverless function.
 5. Test your API by sending HTTP requests to the API Gateway resource.
-6. Write IaC for your Lambda Function, so that you can use code to deploy it.
-You can use any one of the following: Terraform, CloudFormation or Pulumi.
-7. Setup a GitHub repository where you will push your lambda function code and IaC code.
-8. Setup a CICD pipeline using GitHub Actions to deploy your Lambda Function if a push or change is made to the code in the repo.
+6. Write IaC for your Serverless Function, so that you can use code to deploy it.
+You can use any one of the following: Terraform or Pulumi.
+7. Setup a GitHub repository where you will push your serverless function code and IaC code.
+8. Setup a CICD pipeline using GitHub Actions or tool of your choice to deploy your Function if a push or change is made to the code in the repo.
 
 ## Examples
 
@@ -68,4 +74,4 @@ An API for my favorite TV Show, the Peaky Blinders. This was built as FastAPI in
 
 ## Conclusion
 
-AWS Lambda is a powerful tool for building serverless APIs. By following the steps in this challenge, you can learn how to build your own serverless API with AWS Lambda.
+Serverless Functions are a powerful tool for building serverless APIs. By following the steps in this challenge, you can learn how to build your own serverless API with AWS, Azure or GCP.
