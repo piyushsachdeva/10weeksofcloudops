@@ -1,21 +1,21 @@
-# Week 8 - Serverless Challenge
+# Week 8 - Serverless Challenge 🚀
 
-In this challenge, you will use Serverless Functions to build a serverless API. Serverless Functions are offered by all major cloud providers, it is a compute service that lets you run code without provisioning or managing servers. You can use these to build many different types of applications, including APIs, web applications, and mobile backends.
+In this challenge, you will use Serverless Functions to build a serverless API. All major cloud providers offer Serverless Functions, a compute service that lets you run code without provisioning or managing servers. You can use these to build many applications, including APIs, web applications, and mobile backends.
 
-Following are the services:
+The following are the services:
 
 - [AWS Lambda](https://aws.amazon.com/lambda/)
 - [Azure Functions](https://azure.microsoft.com/en-in/products/functions#:~:text=Azure%20Functions%20is%20an%20event,highest%20level%20of%20hardware%20abstraction.)
 - [GCP Cloud Functions](https://cloud.google.com/functions)
 
-## Requirements
+## Requirements 🙋‍♂️
 
 - A cloud provider account (AWS, Azure or GCP)
 - Knowledge of Python or another programming language supported by these services.
 - IaC Tool like Terraform or Pulumi
 - CICD: Continuous Integrations and Continuous Deployment
 
-## Challenge Ideas
+## Challenge Ideas 💡
 
 Here are some examples of serverless APIs that you can build with AWS Lambda:
 
@@ -24,28 +24,28 @@ Here are some examples of serverless APIs that you can build with AWS Lambda:
 - An API that processes images or videos (see below an example of QR Code Generator)
 - An API that triggers other AWS services, such as Amazon Simple Notification Service (SNS) or Amazon Simple Email Service (SES)
 
-## Steps
+## Steps 👇
 
-1. Create a Serverless function. You can do this using the either the cloud management console or the cloud provider CLI.
+1. Create a Serverless function. You can do this using the cloud management console or the cloud provider CLI.
 2. Write the code for your function. Your function should handle incoming HTTP requests and return a response.
 3. Deploy your function to the cloud.
 4. Create an API Gateway resource or HTTP trigger and configure it to trigger your Serverless function.
 5. Test your API by sending HTTP requests to the API Gateway resource.
-6. Write IaC for your Serverless Function, so that you can use code to deploy it.
+6. Write IaC for your Serverless Function so that you can use code to deploy it.
 You can use any one of the following: Terraform or Pulumi.
-7. Setup a GitHub repository where you will push your serverless function code and IaC code.
-8. Setup a CICD pipeline using GitHub Actions or tool of your choice to deploy your Function if a push or change is made to the code in the repo.
+7. Set up a GitHub repository where you will push your serverless function code and IaC code.
+8. Set up a CICD pipeline using GitHub Actions or a tool of your choice to deploy your Function if a push or change is made to the code in the repo.
 
-## Examples
+## Examples 🟢
 
-Here are few example ideas of what you can build.
+Here are a few example ideas of what you can build.
 
 ### Serverless Resume API
 
-Looking for a beginner friendly cloud serverless project? I have one for you.
-AWS Lambda Resume API Challenge. A project where you will have the opportunity to build and deploy a serverless API using AWS Lambda and DynamoDB, integrated with GitHub Actions. The primary goal? Construct an API that can serve resume data in JSON format.
+Would you be interested in a beginner-friendly cloud serverless project? I have one for you.
+AWS Lambda Resume API Challenge. A project where you can build and deploy a serverless API using AWS Lambda and DynamoDB, integrated with GitHub Actions. The primary goal? Construct an API that can serve resume data in JSON format.
 
-I have a GitHub repo for this one, where you can submit your solutions!
+I have a GitHub repo where you can submit your solutions!
 Link to the [GitHub Repo](https://github.com/rishabkumar7/aws-resume-api)
 
 #### Code walkthrough
@@ -54,7 +54,7 @@ Link to the [GitHub Repo](https://github.com/rishabkumar7/aws-resume-api)
 
 ### QR Code Generator
 
-I built an API using AWS Lambda, that accepts POST requests with URL field in the body and generates a QR Code for the provided URL, saves the QR Code in S3 bucke and then sends back the QR Code S3 Object with 200 OK response.
+I built an API using AWS Lambda that accepts POST requests with a URL field in the body and generates a QR Code for the provided URL, saves the QR Code in the S3 bucket, and then sends back the QR Code S3 Object with 200 OK response.
 
 [![QR Code Generator](https://img.youtube.com/vi/j8QZwM3LFDM/sddefault.jpg)](https://youtu.be/j8QZwM3LFDM?si=Ue46RnlmYzaJsGMY)
 
@@ -62,7 +62,7 @@ I built an API using AWS Lambda, that accepts POST requests with URL field in th
 
 ### Peaky Blinders API
 
-An API for my favorite TV Show, the Peaky Blinders. This was built as FastAPI in Python but you can convert it into a Serverless Lambda API. It has different endpoint that you can send GET requests to get show data like:
+An API for my favorite TV Show, the Peaky Blinders. This was built as FastAPI in Python, but you can convert it into a Serverless Lambda API. It has a different endpoint that you can send GET requests to show data like:
 
 - Cast
 - Seasons
@@ -74,4 +74,4 @@ An API for my favorite TV Show, the Peaky Blinders. This was built as FastAPI in
 
 ## Conclusion
 
-Serverless Functions are a powerful tool for building serverless APIs. By following the steps in this challenge, you can learn how to build your own serverless API with AWS, Azure or GCP.
+Serverless Functions are a powerful tool for building serverless APIs. Following this challenge's steps, you can learn how to build your serverless API with AWS, Azure, or GCP.
