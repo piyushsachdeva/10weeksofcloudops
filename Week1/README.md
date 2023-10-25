@@ -56,7 +56,7 @@ We encourage you to ask questions, seek help from the community by posting your 
 🔗 Join our community 👇  
 
 <a href="https://tr.ee/1gYq2dJ73E">
-  <img src="https://static.vecteezy.com/system/resources/previews/018/930/718/original/discord-logo-discord-icon-transparent-free-png.png" alt="Discord Icon" width="130" height="130">
+  <img src="https://static.vecteezy.com/system/resources/previews/018/930/718/original/discord-logo-discord-icon-transparent-free-png.png" alt="Discord Icon" width="110" height="110">
 </a>
 
 <a href="https://www.youtube.com/TechTutorialswithPiyush">
@@ -68,7 +68,7 @@ We encourage you to ask questions, seek help from the community by posting your 
 </a>
 
 <a href="https://www.linkedin.com/company/thecloudopscomm/">
-  <img src="https://gartman.com/wp-content/uploads/2020/08/57-571935_linkedin-icon-vector-png-linkedin-circle-logo-transparent.jpg" alt="Linkedin Icon" width="80" height="80">
+  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="Linkedin Icon" width="80" height="80">
 </a>
 
 <a href="https://www.instagram.com/techtutorialswithpiyush/">
