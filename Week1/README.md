@@ -53,9 +53,28 @@ https://www.cloudskillsboost.google/focuses/1251?parent=catalog
 
 We encourage you to ask questions, seek help from the community by posting your queries/question in the help channel after joining our Discord community
 
-🔗 Link to the Discord community: <a href="https://tr.ee/1gYq2dJ73E">
+🔗 Join our community 👇  
+
+<a href="https://tr.ee/1gYq2dJ73E">
   <img src="https://static.vecteezy.com/system/resources/previews/018/930/718/original/discord-logo-discord-icon-transparent-free-png.png" alt="Discord Icon" width="100" height="100">
 </a>
+
+<a href="https://www.youtube.com/TechTutorialswithPiyush">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fyoutube_1384060&psig=AOvVaw1xAnElGU7LZzwEaD4bc7Vj&ust=1698314844193000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPjIif35kIIDFQAAAAAdAAAAABAE" alt="Youtube Icon" width="100" height="100">
+</a>
+
+<a href="https://twitter.com/thecloudopscomm">
+  <img src="https://about.twitter.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png" alt="Twitter Icon" width="100" height="100">
+</a>
+
+<a href="https://www.linkedin.com/company/thecloudopscomm/">
+  <img src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvdjk4Mi1kMS0xMC5wbmc.png?s=8TW_iisJkPrxbWNOpMAv2CABwGf9HomNFQwxGELp4Zc" alt="Linkedin Icon" width="100" height="100">
+</a>
+
+<a href="https://www.instagram.com/techtutorialswithpiyush/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1024px-Instagram-Icon.png" alt="Instagram Icon" width="100" height="100">
+</a>
+
 
 
 Have fun and learn during this Week 1 Challenge! 🤗
