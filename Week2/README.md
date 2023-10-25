@@ -41,13 +41,16 @@ Optionally, you can create a screen recording or deploy a live website demonstra
 
 ### Reference resources: ✅
 💡 To ensure you're ready to take on this challenge, it's important to have a solid understanding of networking concepts. Check out the following resources for guidance:
+
 👉 AWS: [Click Here](https://youtu.be/yUhzvVrwkV8?si=CZs9EllFW8Lp3G17)
+
 👉 Azure: [Click Here](https://youtu.be/fzaWF9OzkRs)
+
 👉 GCP: [Click Here](https://youtu.be/XLaFU1t9pM8)
 
 🚀IP address calculation/CIDR and Subnet Masks: [Click here](https://youtu.be/G1azmL5-eQI)
 
-📌Once you've got a good handle on networking, take a look at this sample 3-tier architecture using AWS services(super important): [Click here](https://docs.aws.amazon.com/whitepapers/latest/web-application-hosting-best-practices/an-aws-cloud-architecture-for-web-hosting.html).
+📌Once you've got a good handle on networking, take a look at this sample 3-tier architecture using AWS services: [Click here](https://docs.aws.amazon.com/whitepapers/latest/web-application-hosting-best-practices/an-aws-cloud-architecture-for-web-hosting.html).
 
 We encourage you to ask questions, seek help from the community by posting your queries/question in the help channel after joining our Discord community
 
