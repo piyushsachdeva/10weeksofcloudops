@@ -10,7 +10,7 @@
 ## 🔗 Join our community 👇  
 
 
-<a href="https://youtube.com/@techtutorialswithpiyush"><img src="https://icons8.com/icon/19318/youtube" height="60px"></img></a>
+<a href="https://youtube.com/@techtutorialswithpiyush"><img src="https://www.freeiconspng.com/thumbs/youtube-icon/video-youtube-icon--14.png" height="60px"></img></a>
 <a href="https://discord.com/invite/FMtJ2bVRUE"><img src="https://img.icons8.com/color/2x/discord--v2.png" height="60px"></img></a>
 <a href="https://github.com/TheCloudOpsCommunity"><img src="https://user-images.githubusercontent.com/91791257/235086411-9ec7aa5e-c095-44ce-b9e6-57b3bc3fead2.png" height="60px"></img></a>
 <a href="https://twitter.com/thecloudopscomm"><img src="https://i.postimg.cc/pVqVTNJd/X-logo.png" height="60px"></img></a>
