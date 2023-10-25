@@ -62,31 +62,6 @@ We encourage you to ask questions, seek help from the community by posting your 
 <a href="https://www.instagram.com/techtutorialswithpiyush/"><img src="https://user-images.githubusercontent.com/91791257/235086447-47658b7b-71fa-4baf-830a-3ba9b3a76a47.png" height="60px"></img></a>
 
 
-<a href="https://tr.ee/1gYq2dJ73E">
-  <img src="https://static.vecteezy.com/system/resources/previews/018/930/604/original/discord-logo-discord-icon-transparent-free-png.png" alt="Discord Icon" width="130" height="130">
-</a>
-
-
-<a href="https://www.youtube.com/TechTutorialswithPiyush">
-  <img src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png" alt="Youtube Icon" width="100" height="100">
-</a>
-
-
-<a href="https://twitter.com/thecloudopscomm">
-  <img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" alt="Twitter Icon" width="80" height="80">
-</a>
-
-
-<a href="https://www.linkedin.com/company/thecloudopscomm/">
-  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="Linkedin Icon" width="80" height="80">
-</a>
-
-
-<a href="https://www.instagram.com/techtutorialswithpiyush/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1024px-Instagram-Icon.png" alt="Instagram Icon" width="80" height="80">
-</a>
-
-
 
 Have fun and learn during this Week 1 Challenge! 🤗
 
