@@ -55,6 +55,13 @@ We encourage you to ask questions, seek help from the community by posting your 
 
 🔗 Join our community 👇  
 
+<a href="https://tr.ee/1gYq2dJ73E"><img src="https://img.icons8.com/color/2x/discord--v2.png" height="60px"></img></a>
+<a href="https://github.com/TheCloudOpsCommunity"><img src="https://user-images.githubusercontent.com/91791257/235086411-9ec7aa5e-c095-44ce-b9e6-57b3bc3fead2.png" height="60px"></img></a>
+<a href="https://twitter.com/thecloudopscomm"><img src="https://i.postimg.cc/pVqVTNJd/X-logo.png" height="60px"></img></a>
+<a href="https://www.linkedin.com/company/thecloudopscomm/"><img src="https://img.icons8.com/fluency/2x/linkedin.png" height="60px"></img></a>
+<a href="https://www.instagram.com/techtutorialswithpiyush/"><img src="https://user-images.githubusercontent.com/91791257/235086447-47658b7b-71fa-4baf-830a-3ba9b3a76a47.png" height="60px"></img></a>
+
+
 <a href="https://tr.ee/1gYq2dJ73E">
   <img src="https://static.vecteezy.com/system/resources/previews/018/930/604/original/discord-logo-discord-icon-transparent-free-png.png" alt="Discord Icon" width="130" height="130">
 </a>
