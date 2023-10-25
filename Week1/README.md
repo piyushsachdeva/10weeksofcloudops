@@ -60,11 +60,11 @@ We encourage you to ask questions, seek help from the community by posting your 
 </a>
 
 <a href="https://www.youtube.com/TechTutorialswithPiyush">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fyoutube_1384060&psig=AOvVaw1xAnElGU7LZzwEaD4bc7Vj&ust=1698314844193000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPjIif35kIIDFQAAAAAdAAAAABAE" alt="Youtube Icon" width="100" height="100">
+  <img src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png" alt="Youtube Icon" width="100" height="100">
 </a>
 
 <a href="https://twitter.com/thecloudopscomm">
-  <img src="https://about.twitter.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png" alt="Twitter Icon" width="100" height="100">
+  <img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" alt="Twitter Icon" width="100" height="100">
 </a>
 
 <a href="https://www.linkedin.com/company/thecloudopscomm/">
