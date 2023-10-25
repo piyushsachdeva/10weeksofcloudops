@@ -56,7 +56,7 @@ We encourage you to ask questions, seek help from the community by posting your 
 🔗 Join our community 👇  
 
 <a href="https://tr.ee/1gYq2dJ73E">
-  <img src="https://static.vecteezy.com/system/resources/previews/018/930/718/original/discord-logo-discord-icon-transparent-free-png.png" alt="Discord Icon" width="110" height="110">
+  <img src="https://static.vecteezy.com/system/resources/previews/018/930/604/original/discord-logo-discord-icon-transparent-free-png.png" alt="Discord Icon" width="100" height="100">
 </a>
 
 <a href="https://www.youtube.com/TechTutorialswithPiyush">
