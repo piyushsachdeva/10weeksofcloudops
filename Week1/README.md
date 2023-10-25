@@ -53,7 +53,12 @@ https://www.cloudskillsboost.google/focuses/1251?parent=catalog
 
 We encourage you to ask questions, seek help from the community by posting your queries/question in the help channel after joining our Discord community
 
-🔗 Link to the Discord community:[![Discord](https://static.vecteezy.com/system/resources/previews/018/930/718/original/discord-logo-discord-icon-transparent-free-png.png)](https://linktr.ee/thecloudopscomm?utm_source=linktree_profile_share&ltsid=83e3e014-5557-4d19-853d-3508720ab951)
+🔗 Link to the Discord community:[![Discord](https://static.vecteezy.com/system/resources/previews/018/930/718/original/discord-logo-discord-icon-transparent-free-png.png)](https://tr.ee/1gYq2dJ73E)
+
+<a href="[[https://discord.com/](https://static.vecteezy.com/system/resources/previews/018/930/718/original/discord-logo-discord-icon-transparent-free-png.png)](https://tr.ee/1gYq2dJ73E)">
+  <img src="link-to-your-discord-icon-image" alt="Discord Icon" width="50" height="50">
+</a>
+
 
 Have fun and learn during this Week 1 Challenge! 🤗
 
