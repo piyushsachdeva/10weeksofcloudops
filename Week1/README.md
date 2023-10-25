@@ -53,10 +53,8 @@ https://www.cloudskillsboost.google/focuses/1251?parent=catalog
 
 We encourage you to ask questions, seek help from the community by posting your queries/question in the help channel after joining our Discord community
 
-🔗 Link to the Discord community:[![Discord](https://static.vecteezy.com/system/resources/previews/018/930/718/original/discord-logo-discord-icon-transparent-free-png.png)](https://tr.ee/1gYq2dJ73E)
-
-<a href="https://tr.ee/1gYq2dJ73E">
-  <img src="https://static.vecteezy.com/system/resources/previews/018/930/718/original/discord-logo-discord-icon-transparent-free-png.png" alt="Discord Icon" width="50" height="50">
+🔗 Link to the Discord community: <a href="https://tr.ee/1gYq2dJ73E">
+  <img src="https://static.vecteezy.com/system/resources/previews/018/930/718/original/discord-logo-discord-icon-transparent-free-png.png" alt="Discord Icon" width="100" height="100">
 </a>
 
 
