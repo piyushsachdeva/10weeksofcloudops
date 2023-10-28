@@ -16,7 +16,7 @@ Create a custom monitoring dashboard that provides insights into key system perf
 
 ### Alerting Configuration
 
-Implement at least two metrics-based alerts to notify you of critical system performance issues proactively. Additionally, set up two log-based alerts to detect and respond to specific events in your logs.
+Implement at least two metrics-based alerts to notify you of critical system performance issues proactively. Optionally, set up two log-based alerts to detect and respond to specific events in your logs.
 
 ### Log Streaming to ELK
 
@@ -55,7 +55,7 @@ Optionally, you can create a screen recording or deploy a live website demonstra
 - [FluentD Log Collector](https://youtu.be/5ofsNyHZwWE)
 
 
-We encourage you to ask questions, seek help from the community by posting your queries/question in the help channel after joining our Discord community
+We encourage you to ask questions seek help from the community by posting your queries/questions in the help channel after joining our Discord community.
 
 🔗 Join our community 👇  
 
