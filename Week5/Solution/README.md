@@ -32,6 +32,14 @@ curl -fsSL -o get_helm.sh https://raw.githubusercontent.com/helm/helm/main/scrip
 chmod 700 get_helm.sh
 ./get_helm.sh
 ```
+
+## Clone the application repo
+
+```
+git clone https://github.com/GoogleCloudPlatform/bank-of-anthos.git
+cd bank-of-anthos/
+```
+
 ## Deploy Prometheus and Grafana
 
 ```bash
@@ -49,8 +57,6 @@ helm install my-release grafana/grafana
 
 ## Deploy sample application Bank of Anthos
 ```bash
-git clone https://github.com/GoogleCloudPlatform/bank-of-anthos.git
-cd bank-of-anthos/
 kubectl apply -f extras/jwt/jwt-secret.yaml
 kubectl apply -f kubernetes-manifests
 ```
