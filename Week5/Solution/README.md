@@ -32,7 +32,7 @@ curl -fsSL -o get_helm.sh https://raw.githubusercontent.com/helm/helm/main/scrip
 chmod 700 get_helm.sh
 ./get_helm.sh
 ```
-## Deploy Prometheus
+## Deploy Prometheus and Grafana
 
 ```bash
 helm repo add bitnami https://charts.bitnami.com/bitnami
@@ -40,6 +40,11 @@ helm install tutorial bitnami/kube-prometheus \
 --version 8.2.2 \
 --values extras/prometheus/oss/values.yaml \
 --wait
+
+helm repo add grafana https://grafana.github.io/helm-charts
+helm repo update
+helm install my-release grafana/grafana
+
 ```
 
 ## Deploy sample application Bank of Anthos
@@ -54,21 +59,6 @@ kubectl apply -f kubernetes-manifests
 ```
 helm repo add metrics-server https://kubernetes-sigs.github.io/metrics-server/
 helm upgrade --install metrics-server metrics-server/metrics-server
-```
-
-## Install Prometheus and Grafana
-```bash
-
-helm repo add bitnami https://charts.bitnami.com/bitnami
-helm install tutorial bitnami/kube-prometheus \
---version 8.2.2 \
---values extras/prometheus/oss/values.yaml \
---wait
-
-helm repo add grafana https://grafana.github.io/helm-charts
-helm repo update
-helm install my-release grafana/grafana
-
 ```
 
 ## Configure Slack
