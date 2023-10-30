@@ -20,7 +20,7 @@
 
 ## Create a GKE cluster using gcloud
 ```bash
-  gcloud container clusters create-auto 10weeksofcloudops-cluster \
+  gcloud container clusters create-auto thecloudopscommunity \
     --release-channel=stable \
     --region=us-east1
  ```
