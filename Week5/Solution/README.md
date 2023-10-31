@@ -1,29 +1,29 @@
-# WORK IN PROGRESS
-# Solution to setup Continuous monitoring, logging and alerting on Kubernetes cluster using opensource tools
+# Solution to set Continuous monitoring, logging, and alerting on Kubernetes cluster using opensource tools 🚀
 
-## If you are a video person, feel free to check out the below video for end to end solution:
+## If you are a video person, feel free to check out the below video for end to end solution:👇
+[![Monitoring and Alerting](https://img.youtube.com/vi/gBdyIv9d_O8/sddefault.jpg)]([https://youtu.be/-pKrT7Ix3G0?si=tZ784UqtJdKpq6kH](https://youtu.be/gBdyIv9d_O8))
 
-
-## If you are a documentation reader, feel free to follow the below steps:
+## Below are all the commands used in the video 👇
 
 ## Steps to be performed:
 *  Setup a Kubernetes cluster
 *  Helm installation
-*  Deploy Opensource Prometheus using Helm
+*  Deploy Opensource Prometheus and AlertManager using Helm
+*  Deploy Grafana
 *  Deploy a sample application to the cluster
-*  Setup metrics server using Helm
-*  Setup metrics based alerts
+*  Setup alerts using AlertManager and Slack
 *  Setup Grafana dashboard
-*  Install Grafana using Helm
-*  EFK stack setup
-*  Logging Setup
+*  EFK stack setup (Work-in-progress)
+*  Logging Setup (Work-in-progress)
 
-## Create a GKE cluster using gcloud
+## Create a GKE cluster using cloud
+**Note: Please do not create the autopilot cluster as it will have some restrictions, you can use the standard GKE cluster**
 ```bash
   gcloud container clusters create-auto thecloudopscommunity \
     --release-channel=stable \
     --region=us-east1
  ```
+
 
 ## Helm installation
 
@@ -40,7 +40,7 @@ git clone https://github.com/GoogleCloudPlatform/bank-of-anthos.git
 cd bank-of-anthos/
 ```
 
-## Deploy Prometheus and Grafana
+## Deploy Prometheus, AlertManager and Grafana
 
 ```bash
 helm repo add bitnami https://charts.bitnami.com/bitnami
@@ -59,12 +59,6 @@ helm install my-release grafana/grafana
 ```bash
 kubectl apply -f extras/jwt/jwt-secret.yaml
 kubectl apply -f kubernetes-manifests
-```
-
-## Setup Metrics Server
-```
-helm repo add metrics-server https://kubernetes-sigs.github.io/metrics-server/
-helm upgrade --install metrics-server metrics-server/metrics-server
 ```
 
 ## Configure Slack
