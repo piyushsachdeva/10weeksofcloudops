@@ -1,4 +1,5 @@
-# Kubernetes Administration in Depth
+# Week 7 Challenge: Kubernetes Administration in Depth 🚀
+
 ## Below are the task details:
 
 Your organization is evolving, and your CTO wants to streamline the build and deployment process. As a DevOps engineer, you have been tasked to deploy a local docker images registry on Kubernetes to store the docker images in the namespace called “democloudops”  and should meet the following requirements:
@@ -54,4 +55,16 @@ Your organization is evolving, and your CTO wants to streamline the build and de
 *  Please provide a detailed YAML manifest or command set that demonstrates how you would achieve the above requirements.
 *  Also, include any necessary explanations or considerations related to your implementation.
 
-Note: Feel free to use any appropriate resources, such as Kubernetes documentation, to assist in your implementation. Good luck!
+Note: Feel free to use any appropriate resources, such as Kubernetes documentation, to assist in your implementation.
+
+## 🔗 Join our community 👇
+
+
+<a href="https://discord.com/invite/FMtJ2bVRUE"><img src="https://img.icons8.com/color/2x/discord--v2.png" height="60px"></img></a>
+<a href="https://github.com/TheCloudOpsCommunity"><img src="https://user-images.githubusercontent.com/91791257/235086411-9ec7aa5e-c095-44ce-b9e6-57b3bc3fead2.png" height="60px"></img></a>
+<a href="https://twitter.com/thecloudopscomm"><img src="https://i.postimg.cc/pVqVTNJd/X-logo.png" height="60px"></img></a>
+<a href="https://www.linkedin.com/company/thecloudopscomm/"><img src="https://img.icons8.com/fluency/2x/linkedin.png" height="60px"></img></a>
+<a href="https://www.instagram.com/techtutorialswithpiyush/"><img src="https://user-images.githubusercontent.com/91791257/235086447-47658b7b-71fa-4baf-830a-3ba9b3a76a47.png" height="60px"></img></a>
+
+
+Have fun and learn during this Week 7 Challenge! 🤗
