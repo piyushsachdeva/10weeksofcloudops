@@ -17,6 +17,9 @@
 <a href="https://www.linkedin.com/company/thecloudopscomm/"><img src="https://img.icons8.com/fluency/2x/linkedin.png" height="60px"></img></a>
 <a href="https://www.instagram.com/techtutorialswithpiyush/"><img src="https://user-images.githubusercontent.com/91791257/235086447-47658b7b-71fa-4baf-830a-3ba9b3a76a47.png" height="60px"></img></a>
 
+### Contributions are welcome:
+You can raise the pull request to contribute to the course material; do not forget to star the repository.
+
 
 ## Frequently asked questions 👇
 
