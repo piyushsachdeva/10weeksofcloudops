@@ -1,4 +1,4 @@
-#Week Challenge: Configuration as a Code using Ansible and MongoDB 🚀
+# Week 6 Challenge: Configuration as a Code using Ansible and MongoDB 🚀
 
 ## Objective
 
@@ -51,7 +51,7 @@ Optionally, you can create a screen recording or deploy a live website demonstra
 
 We encourage you to ask questions, seek help from the community by posting your queries/question in the help channel after joining our Discord community
 
-🔗 Join our community 👇  
+## 🔗 Join our community 👇
 
 
 <a href="https://discord.com/invite/FMtJ2bVRUE"><img src="https://img.icons8.com/color/2x/discord--v2.png" height="60px"></img></a>
@@ -62,4 +62,3 @@ We encourage you to ask questions, seek help from the community by posting your 
 
 
 Have fun and learn during this Week 3 Challenge! 🤗
-

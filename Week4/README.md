@@ -1,20 +1,20 @@
-# Week4 - Docker, Kubernetes and GitOps 🚀
+# Week 4 Challenge: Docker, Kubernetes and GitOps 🚀
 
 ## Objective
 In this challenge, your task is to demonstrate your proficiency in containerization, orchestration, continuous integration, and continuous deployment (CI/CD) in a Kubernetes environment.
 
 ## Key Guidelines
 
-### 1. Dockerize a Web Application: 
+### 1. Dockerize a Web Application:
 Containerize a web application using Docker. This step should result in a Docker image that encapsulates your web application and its dependencies.
 
 ### 2. Provision a Kubernetes Cluster:
 Utilize Terraform to provision a Kubernetes cluster. You have the choice of deploying on AWS Elastic Kubernetes Service (EKS), Azure Kubernetes Service (AKS), Google Kubernetes Engine (GKE), or locally on Minikube. Select the platform that best suits your needs.
 
-### 3. GitOps on Kubernetes using ArgoCD: 
+### 3. GitOps on Kubernetes using ArgoCD:
 Implement a GitOps pipeline using ArgoCD for deploying your Dockerized web application to the Kubernetes cluster. Automate the deployment process and ensure your application is automatically updated by ArgoCD as soon as there is a change in your GitHub repo.
 
-### 4. Security and Best Practices: 
+### 4. Security and Best Practices:
 Throughout this challenge, prioritize security and adhere to best practices for containerization, Kubernetes configuration, and CI/CD pipelines. Your solution should demonstrate a commitment to robust, secure, and scalable infrastructure.
 
 ## Deliverables 📦
@@ -69,7 +69,7 @@ Sorry for the long list, but you can choose resources based on your preference.
 
 We encourage you to ask questions, seek help from the community by posting your queries/question in the help channel after joining our Discord community
 
-🔗 Join our community 👇  
+## 🔗 Join our community 👇
 
 
 <a href="https://discord.com/invite/FMtJ2bVRUE"><img src="https://img.icons8.com/color/2x/discord--v2.png" height="60px"></img></a>
@@ -82,4 +82,3 @@ We encourage you to ask questions, seek help from the community by posting your 
 Have fun and learn during this Week 4 Challenge! 🤗
 
 Good luck, and happy cloud computing! 🌟
-
