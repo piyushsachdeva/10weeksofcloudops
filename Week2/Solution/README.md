@@ -6,7 +6,8 @@
 [Image Source](https://github.com/aws-samples/aws-three-tier-web-architecture-workshop/blob/main/application-code/web-tier/src/assets/3TierArch.png)
 
 ## Architecture Diagram for Azure
-![Architecture](https://private-user-images.githubusercontent.com/90508814/258565803-53a53748-0dd5-40cc-9a29-4e56d62c7aa7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTEwNzczMjgsIm5iZiI6MTcxMTA3NzAyOCwicGF0aCI6Ii85MDUwODgxNC8yNTg1NjU4MDMtNTNhNTM3NDgtMGRkNS00MGNjLTlhMjktNGU1NmQ2MmM3YWE3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzIyVDAzMTAyOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY4NDdhNjljOWJhYTQ0OGVjNzhkY2RkZDAxYmRhZTg1YzZiY2MxZmIxNzNjYTc0Y2UxNzYxODZlYzcxMjNiNzcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.v-BGNxfcSZR3dwODEVWpUK3-T_zc7_wJvT-Sa7EPXVI)
+![Architecture](https://github.com/thakurnishu/10_Weeks_Of_CloudOps/blob/week2/application-code/web-tier/src/assets/3TierArch.png)
+
 [Image Source](https://github.com/thakurnishu/10_Weeks_Of_CloudOps/tree/week2)
 
 ## If you are a video person, feel free to check out the below video for end to end solution:👇
