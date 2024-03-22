@@ -9,8 +9,8 @@
 ## Blog containing step-by-step instructions for AWS
 [Blog by Mahesh Upreti](https://mupreti.hashnode.dev/keeping-it-dry-with-reusable-terraform-modules-in-the-aws-cloud)
 
-## Architecture Digram for Azure by Joel
-[Diagram by Joel](https://github.com/Joelayo/Week-3_Azure_CloudOps/blob/main/architecture.png)
+## Architecture Diagram for Azure by Joel
+![Diagram by Joel](https://github.com/Joelayo/Week-3_Azure_CloudOps/blob/main/architecture.png)
 
 ## Blog containing the step-by-step instructions for Azure
 [Blog by Joel](https://github.com/Joelayo/Week-3_Azure_CloudOps/blob/main/architecture.png)
