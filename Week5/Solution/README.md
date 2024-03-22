@@ -75,6 +75,9 @@ kubectl apply -f extras/prometheus/oss/probes.yaml
 kubectl apply -f extras/prometheus/oss/rules.yaml
 ```
 
+## Step by Step Blog by Mallikarjun
+[Blog by Mallikarjun](https://devo.hashnode.dev/comprehensive-aws-eks-cluster-monitoring-with-prometheus-grafanaand-efk-stack-10weeksofcloudops)
+
 
 
 
