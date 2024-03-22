@@ -3,6 +3,8 @@
 ## Architecture Diagram
 ![Architecture](https://github.com/aws-samples/aws-three-tier-web-architecture-workshop/blob/main/application-code/web-tier/src/assets/3TierArch.png)
 
+[Image Source](https://github.com/aws-samples/aws-three-tier-web-architecture-workshop/blob/main/application-code/web-tier/src/assets/3TierArch.png)
+
 ## If you are a video person, feel free to check out the below video for end to end solution:👇
 [![3-tier Architecture](https://img.youtube.com/vi/amiIcyt-J2A/sddefault.jpg)](https://youtu.be/amiIcyt-J2A)
 
