@@ -8,5 +8,8 @@
 ## If you are a video person, feel free to check out the below video for end to end solution:👇
 [![3-tier Architecture](https://img.youtube.com/vi/amiIcyt-J2A/sddefault.jpg)](https://youtu.be/amiIcyt-J2A)
 
-## Detailed workshop with step-by-step instructions:
+## Detailed workshop for AWS with step-by-step instructions:
 [Workshop link](https://catalog.us-east-1.prod.workshops.aws/workshops/85cd2bb2-7f79-4e96-bdee-8078e469752a/en-US)
+
+## Detailed blog for Azure for step by step instructions
+![Blog by Nishant Singh](https://nishantsingh.hashnode.dev/10weeksofcloudops-secondweek)
