@@ -12,6 +12,7 @@
 ## Architecture Diagram for Azure by Nishant
 ![image](https://github.com/piyushsachdeva/10weeksofcloudops/assets/40286378/7b646161-7a81-4113-bbfe-2fe547f463dd)
 
+[Image Source](https://nishantsingh.hashnode.dev/10weeksofcloudops-firstweek)
 
 ## Blog By Nishant containing the step-by-step instructions for Azure
 [Blog by Nishant](https://nishantsingh.hashnode.dev/10weeksofcloudops-firstweek)
