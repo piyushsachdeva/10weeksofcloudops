@@ -1,4 +1,4 @@
-# Week 1 Challenge: Static website hosting on AWS, Azure or GCP and implement CICD 🚀
+# Week 1 Challenge: Static website hosting on AWS, Azure, or GCP and implement CICD 🚀
 
 This week's challenge will explore critical concepts and services related to cloud storage, content delivery, and DNS management 🔍 We will also implement CICD for automated changes to your website.
 
@@ -9,7 +9,7 @@ This week's challenge will explore critical concepts and services related to clo
 
 ## Get Started 🚀
 - Review the challenge requirements. ✔️
-- Dive into AWS, Azure, or GCP documentation to get familiar with the services mentioned. 📖
+- Dive into AWS, Azure, or GCP documentation to familiarize yourself with the services mentioned. 📖
 - Start building your architecture diagram. 🏗️
 - Document your progress in a blog or GitHub Readme. 📝
 
@@ -26,13 +26,13 @@ You should document your progress and steps taken during the challenge. This doc
 Here's a suggested outline for your documentation:
 
 - **Introduction**: Briefly introduce the challenge and its objectives. 📋
-- **Step-by-Step Guide**: Provide a detailed completed task walkthrough. Include code examples and configurations where applicable. 💡
+- **Step-by-Step Guide**: Provide a detailed completed task walkthrough. Could you include code examples and configurations where applicable? 💡
 - **Challenges Faced**: Discuss any challenges you encountered and how you overcame them. 🤔
-- **Key Takeaways**: Share your key learnings from this week's challenge. 🧐
+- **Key Takeaways**: Share what you learned from this week's challenge. 🧐
 - **Resources**: List any helpful resources or references you used. 📚
 
 ### 3. Screen Recording or Live Website 📽️
-Optionally, you can create a screen recording or deploy a live website demonstrating your implementation. This adds an interactive element to your documentation and can be valuable to your portfolio. 🎥
+Optionally, you can just create a screen recording or deploy a live website showing your implementation. This adds an interactive element to your documentation and can be valuable to your portfolio. 🎥
 
 
 ### Reference resources: ✅
