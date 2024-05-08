@@ -13,6 +13,6 @@
 ![Diagram by Joel](https://github.com/Joelayo/Week-3_Azure_CloudOps/blob/main/architecture.png)
 
 ## Blog containing the step-by-step instructions for Azure
-[Blog by Joel](https://github.com/Joelayo/Week-3_Azure_CloudOps/blob/main/architecture.png)
+[Blog by Joel](https://github.com/Joelayo/Week-3_Azure_CloudOps/)
 
 
