@@ -9,3 +9,13 @@
 
 ## Step-by-step blog on AWS by Himani Chauhan
 [Blog by Himani](https://medium.com/@chauhanhimani512/deploying-dockerized-app-on-aws-eks-cluster-using-argocd-and-gitops-methodology-with-circleci-71983375e550)
+
+
+## Architecture diagram for Azure
+
+![Image](![image](https://github.com/user-attachments/assets/20b66cfe-8ded-4290-b11d-286c0e2357d7)
+
+[Image source](https://joeloduyemi.hashnode.dev/utilizing-gitops-approach-and-azure-pipelines-to-deploy-a-dockerized-application-onto-an-aks-cluster-via-argocd)
+
+## Step-by-step blog on Azure by Joel
+[Blog by Joel](https://joeloduyemi.hashnode.dev/utilizing-gitops-approach-and-azure-pipelines-to-deploy-a-dockerized-application-onto-an-aks-cluster-via-argocd)
