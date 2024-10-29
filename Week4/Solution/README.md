@@ -13,7 +13,7 @@
 
 ## Architecture diagram for Azure
 
-![Image](![image](https://github.com/user-attachments/assets/20b66cfe-8ded-4290-b11d-286c0e2357d7)
+(![image](https://github.com/user-attachments/assets/20b66cfe-8ded-4290-b11d-286c0e2357d7)
 
 [Image source](https://joeloduyemi.hashnode.dev/utilizing-gitops-approach-and-azure-pipelines-to-deploy-a-dockerized-application-onto-an-aks-cluster-via-argocd)
 
