@@ -17,6 +17,39 @@
 <a href="https://www.linkedin.com/company/thecloudopscomm/"><img src="https://img.icons8.com/fluency/2x/linkedin.png" height="60px"></img></a>
 <a href="https://www.instagram.com/techtutorialswithpiyush/"><img src="https://user-images.githubusercontent.com/91791257/235086447-47658b7b-71fa-4baf-830a-3ba9b3a76a47.png" height="60px"></img></a>
 
+
+# 🏆 #10WeeksOfCloudOps Challenge - Winners
+
+Welcome to the official winners' announcement of the **#10WeeksOfCloudOps Challenge!** 🎉
+
+This challenge aimed to upskill participants in CloudOps, Kubernetes, DevOps, and Infrastructure as Code (IaC). We received outstanding contributions from talented individuals worldwide.
+
+## Here are the winners of **10weeksofclouOps** challenge who recived $100 AWS Credits each:
+
+### 🏅 Winners List
+
+| Name                 | LinkedIn Profile                  
+|----------------------|--------------------------------------------------|
+| **Sridhar Modalavalasa** | [LinkedIn](https://www.linkedin.com/in/sridhar-modalavalasa-12b492173/) 
+| **Harshal Jethwa**    | [LinkedIn](https://www.linkedin.com/in/harshaljethwa/)
+| **Seun Ogunsemowo**   | [LinkedIn](https://www.linkedin.com/in/seun-ogunsemowo2077/) 
+| **Gopal Gupta**       | [LinkedIn](https://www.linkedin.com/in/gopalgupta009/) 
+| **Ankit Jodhani**     | [LinkedIn](https://www.linkedin.com/in/ankit-jodhani/) 
+| **Devarshi Shimpi**   | [LinkedIn](https://www.linkedin.com/in/devarshi-shimpi) 
+| **Aman Pathak**       | [LinkedIn](https://www.linkedin.com/in/aman-devops/) 
+| **Ishan Sharma**      | [LinkedIn](https://www.linkedin.com/in/ishuar/) 
+| **Joel Oduyemi**      | [LinkedIn](https://www.linkedin.com/in/joel-oduyemi/) 
+| **Shreyash Bhise**    | [LinkedIn](https://www.linkedin.com/in/shreyash-bhise-909719239/) 
+
+## 🏆 What's Next?
+- Stay tuned for the next **Challenge**!
+
+🚀 Keep learning, keep building, and stay awesome!
+
+---
+
+*If you participated but didn't make the list, don't be discouraged! The CloudOps journey is ongoing, and every step you take brings you closer to mastery.* 🌟
+
 ### Contributions are welcome:
 You can raise the pull request to contribute to the course material; do not forget to star the repository.
 
